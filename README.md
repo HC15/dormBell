@@ -11,3 +11,6 @@ In order to run this you need Python and the GroupyAPI which can be found [here]
 1. Properly setup GroupyAPI with your key
 2. Find the ID of your GroupMe chatroom and modify dormBellModule.py
 3. Run main.py (make sure you have both .dat files before hand)
+
+# Future Changes
+Play music not through a youtube link but by opening a file. Instead of having the script constantly checking (someone might post something before doorbell is checked) make it work through a bot with a callback url instead.
